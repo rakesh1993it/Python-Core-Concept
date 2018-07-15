@@ -1,10 +1,6 @@
 # Python-Core-Concept
 Introducing Python Core Concepts
 
-    Python Implementation on Various Operating Systems
-        Microsoft Windows
-        Apple Mac OS X
-        Ubuntu
     Python Package Manager (pip)
     Installing Python Modules
         Pyeapi
@@ -32,3 +28,5 @@ Introducing Python Core Concepts
             JSON
             
        etc.
+       
+       feature it will be enhanced
